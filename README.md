@@ -2,6 +2,11 @@
 
 **PakWeatherLens** is a real-time weather dashboard that visually presents current and past weather data across popular cities in Pakistan. Built with Python and Streamlit, it combines real-time API data with beautiful visualizations and pixel-art UI elements.
 
+
+## 🚀 Live Demo
+
+Check out the live dashboard here: https://pakweatherlens-dashboard-kjr8em5ataaebp6qpjsjyt.streamlit.app/
+
 ---
 
 ## 🚀 Key Features
